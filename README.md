@@ -1,10 +1,3 @@
-# IDEA Maven Java WEB项目模板
+spring
 ---
-* maven 3.5
-* servlet3.1
-* git init  
-* git --version
-* git status
-* git add .
-* git config --global user.name "webrx"
-* git config --global user.email "webrx@126.com"
+这是一个web项目
